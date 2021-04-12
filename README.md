@@ -23,6 +23,6 @@
 <p>O projeto será aberto em seguida e poderá ser testado</p>
 
 <h2>Como vizualisar o teste de outra maneira?</h2>
-<p>Também pode acessar clicando no meu repositorio Vercel pelo link: , aqui não é preciso instalar nada, apenas acessar o link :) </p>
+<p>Também pode acessar clicando no meu repositorio Vercel pelo link: https://test-countries.vercel.app , aqui não é preciso instalar nada, apenas acessar o link :) </p>
 
 <p>Obrigado pela oportunidade e espero que a gente se veja logo :D </p>
